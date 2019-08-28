@@ -14,11 +14,11 @@ output/data.csv: output/dates.csv $(foreach t, $(TARGETS), output/$(t).csv)
 	csvstack $(filter-out $<,$^) | \
 	csvjoin -c name -I --left - $< > $@
 
-output/dates.csv: input/$(firstword $(TARGETS)).pdf
+output/dates.csv: input/$(firstword $(TARGETS)).pdf tabula.jar
 	java -jar tabula.jar -p 1-4 -c 314,447 $< | \
 	python scripts/process_dates.py > $@
 
-output/%.csv: input/%.pdf
+output/%.csv: input/%.pdf tabula.jar
 	java -jar tabula.jar -p 6-13 -c 362,454,529 $< | \
 	python scripts/process_csv.py $* > $@
 

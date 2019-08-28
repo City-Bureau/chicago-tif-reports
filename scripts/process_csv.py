@@ -28,6 +28,8 @@ if __name__ == "__main__":
         "city_admin_costs": "",
         "finance_costs": "",
         "bank": "",
+        "finance_costs_2": "",
+        "bank_2": "",
         "url": "https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/{}.pdf".format(  # noqa
             sys.argv[1]
         ),
@@ -43,6 +45,7 @@ if __name__ == "__main__":
         "distribution",
         "city_admin_costs",
         "finance_costs",
+        "finance_costs_2",
     ]
     for row in rows:
         if "TIF NAME" in row[0]:
@@ -69,8 +72,13 @@ if __name__ == "__main__":
         elif "City Staff Costs" in row[0]:
             csv_dict["city_admin_costs"] = get_row_cost(row)
         elif "Financing" in row[1]:
-            csv_dict["bank"] = row[0]
-            csv_dict["finance_costs"] = get_row_cost(row)
+            bank_col = "bank"
+            finance_col = "finance_costs"
+            if csv_dict["bank"] != "":
+                bank_col = "bank_2"
+                finance_col = "finance_costs_2"
+            csv_dict[bank_col] = row[0]
+            csv_dict[finance_col] = get_row_cost(row)
 
     for col in dollar_cols:
         dollar_val = re.sub(r"[\$\*, ]", "", csv_dict[col])

@@ -30,6 +30,7 @@ T_009_95thWesternAR18
 T_111_105thVincennesAR18
 T_176_107thHalstedAR18
 T_073_111thKedzieAR18
+T_182_116thAvenueOAR18
 T_114_119thHalstedAR18
 T_125_119thI57AR18
 T_150_AddisonSouthAR18
@@ -65,6 +66,7 @@ T_021_EnglewoodMallAR18
 T_106_EnglewoodNeighborhoodAR18
 T_169_EwingAR18
 T_177_FosterCaliforniaAR18
+T_181_FosterEdensAR18
 T_087_FullertonMilwaukeeAR18
 T_071_GalewoodArmitageAR18
 T_023_GooseIslandAR18

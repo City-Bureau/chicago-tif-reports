@@ -1,144 +1,146 @@
-name,number,year,extraction_annual,extraction_cumulative,transfers_in_annual,transfers_in_cumulative,expenses_annual,balance,transfers_out,distribution,city_admin_costs,finance_costs,bank,url,creation,expiration
-24th/Michigan,072,2018,3391228,18011510,,136861677,887746,15544540,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_072_24thMichiganAR18.pdf,7/21/1999,7/21/2022
-26th/King Drive,141,2018,806341,7402785,,0,742264,1445743,,,12048.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_141_26thKingAR18.pdf,1/11/2006,12/31/2030
-35th/Halsted,001,2018,8659118,71541377,,3243618,1899028,28904728,6275200,,114557.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_001_35thHalstedAR18.pdf,1/14/1997,12/31/2021
-35th/State,131,2018,2124744,17837367,,3500000,1912455,2378974,60000,,31605.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_131_35thStateAR18.pdf,1/14/2004,12/31/2028
-35th/Wallace,079,2018,1122001,9352659,,0,178167,6770170,860200,,15680.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_079_35thWallaceAR18.pdf,12/15/1999,12/31/2023
-"Forty-First Street and Dr. Martin Luther King, Jr. Drive",002,2018,206032,3332690,,0,173489,0,1309226,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_002_41stKingAR18.pdf,7/13/1994,12/31/2018
-43rd/Cottage Grove,055,2018,3780170,37084457,,0,2238539,14273179,612200,,50944.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_055_43rdCottageGroveAR18.pdf,7/8/1998,12/31/2022
-47th/Ashland,117,2018,2881107,34524337,,2431313,2402541,10515107,,,37508.00,1680102.10,Amalgamated Bank of Chicago,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_117_47thAshlandAR18.pdf,3/27/2002,12/31/2026
-47th/Halsted,121,2018,3257158,38774952,,3950064,1510235,12436784,400000,1587500,44117.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_121_47thHalstedAR18.pdf,5/29/2002,12/31/2026
-47th/King Drive,118,2018,7896419,93260588,,0,3959835,21340282,4108300,400000,106096.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_118_47thKingAR18.pdf,3/27/2002,12/31/2026
-47th/State,136,2018,1591896,18615380,,0,115444,10610302,3347400,,21526.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_136_47thStateAR18.pdf,7/21/2004,12/31/2028
-49th/St. Lawrence,004,2018,465973,6532312,,0,176422,1641443,127100,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_004_49thStLawrenceAR18.pdf,1/10/1996,12/31/2020
-51st/Archer,097,2018,785968,9367592,13954017,45607888,18580306,3171304,,,10405.00,1030694.90,Amalgamated Bank of Chicago,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_097_51stArcherAR18.pdf,5/17/2000,12/31/2024
-51st/Lake Park,175,2018,1868886,2063038,,0,206533,1831507,,,17151.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_175_51stLakeParkAR18.pdf,11/15/2012,12/31/2036
-53rd Street,105,2018,5556590,24839463,,0,3773382,7603473,,,69944.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_105_53rdAR18.pdf,1/10/2001,12/31/2025
-60th/Western,005,2018,254863,5769605,,0,5897,1861181,13700,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_005_60thWesternAR18.pdf,5/9/1996,5/9/2019
-63rd/Ashland,143,2018,1188764,8130370,,4100000,1567774,4503734,,,16077.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_143_63rdAshlandAR18.pdf,3/29/2006,12/31/2030
-63rd/Pulaski,098,2018,2201497,29541098,,0,167431,3443456,,2612731,28513.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_098_63rdPulaskiAR18.pdf,5/17/2000,12/31/2024
-67th/Cicero,124,2018,286665,3515836,,3284023,192213,817250,21300,976540,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_124_67thCiceroAR18.pdf,10/2/2002,12/31/2026
-67th/Wentworth,174,2018,0,0,,625000,124635,504876,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_174_67thWentworthAR18.pdf,5/4/2011,12/31/2035
-71st/Stony Island,060,2018,3400461,45588581,5565642,57288397,8552710,16195797,,,44521.00,8277000.00,Zions Bank,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_060_71stStonyIslandAR18.pdf,10/7/1998,10/7/2021
-73rd/University,145,2018,432603,4620889,,0,8414,1663786,33000,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_145_73rdUniversityAR18.pdf,9/13/2006,12/31/2030
-79th Street Corridor,056,2018,969073,12214759,,0,127914,7118708,72800,,12754.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_056_79thAR18.pdf,7/8/1998,7/8/2021
-79th/Cicero,140,2018,605606,5203264,,0,492366,743313,41900,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_140_79thCiceroAR18.pdf,6/8/2005,12/31/2029
-79th/Southwest Highway,112,2018,1756655,18294215,,0,274514,6284609,2172800,,21415.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_112_79thSWHighwayAR18.pdf,10/3/2001,12/31/2025
-79th/Vincennes,155,2018,176688,2854417,,0,5189,1964836,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_155_79thVincennesAR18.pdf,9/27/2007,12/31/2031
-83rd/Stewart,133,2018,1376141,8319105,,0,1268014,1480509,,,17394.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_133_83rdStewartAR18.pdf,3/31/2004,12/31/2028
-87th/Cottage Grove,127,2018,1892689,26163839,,625000,603793,1750507,,1892221,26494.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_127_87thCottageGroveAR18.pdf,11/13/2002,12/31/2026
-95th/Western,009,2018,1221138,14510402,,1200000,169065,1987306,,1000000,15234.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_009_95thWesternAR18.pdf,7/13/1995,12/31/2019
-105th/Vincennes,111,2018,1038646,5989028,706761,2320284,1426644,2524684,,,14568.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_111_105thVincennesAR18.pdf,10/3/2001,12/31/2025
-107th/Halsted,176,2018,587691,1736732,,1000000,167314,2508350,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_176_107thHalstedAR18.pdf,4/2/2014,12/31/2038
-111th/Kedzie,073,2018,940598,8817043,,0,154364,1666772,52400,500000,11322.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_073_111thKedzieAR18.pdf,9/29/1999,9/29/2022
-119th/Halsted,114,2018,1335553,10579283,,97500,173525,4498791,210500,,18644.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_114_119thHalstedAR18.pdf,2/6/2002,12/31/2026
-119th/I-57,125,2018,3349436,28955082,,950000,2309480,7416429,1057800,1037876,56084.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_125_119thI57AR18.pdf,11/6/2002,12/31/2026
-Addison South,150,2018,4441304,28692358,,0,886009,13242302,1549300,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_150_AddisonSouthAR18.pdf,5/9/2007,12/31/2031
-Archer/Central,099,2018,518610,9217233,,240000,311894,1564719,27300,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_099_ArcherCentralAR18.pdf,5/17/2000,12/31/2024
-Archer Courts,067,2018,497213,5479532,,2235487,124663,1883357,174700,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_067_ArcherCourtsAR18.pdf,5/12/1999,12/31/2023
-Archer/Western,163,2018,28921,1189030,,0,110756,623030,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_163_ArcherWesternAR18.pdf,2/11/2009,12/31/2033
-Armitage/Pulaski,151,2018,204325,1962010,,0,279652,837738,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_151_ArmitagePulaskiAR18.pdf,6/13/2007,12/31/2031
-Austin Commercial,156,2018,1093192,10330821,,235000,589979,5015699,,,14249.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_156_AustinCommercialAR18.pdf,9/27/2007,12/31/2031
-Avalon Park/South Shore,123,2018,498862,7889091,,0,117868,2738612,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_123_AvalonSouthShoreAR18.pdf,7/31/2002,12/31/2026
-Avondale,167,2018,66858,583738,,2900000,1224775,1297597,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_167_AvondaleAR18.pdf,7/29/2009,12/31/2033
-Belmont/Central,081,2018,6597854,45500879,,938,549568,14097845,,1972047,86097.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_081_BelmontCentralAR18.pdf,1/12/2000,12/31/2024
-Belmont/Cicero,082,2018,1388444,17048349,,0,330330,3701996,272600,,16787.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_082_BelmontCiceroAR18.pdf,1/12/2000,12/31/2024
-Bronzeville,061,2018,4326561,56192854,400000,5400000,334453,23028967,500000,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_061_BronzevilleAR18.pdf,11/4/1998,12/31/2022
-Bryn Mawr/Broadway,013,2018,2361236,27503468,,4684947,10485540,5626821,1138200,,32713.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_013_BrynMawrBroadwayAR18.pdf,12/11/1996,12/11/2019
-Calumet/Cermak,059,2018,12820529,157319582,,28000000,2408626,0,20859605,,184640.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_059_CalumetCermakAR18.pdf,7/29/1998,12/31/2018
-Canal/Congress,063,2018,35344020,307707258,7300000,8391731,12623946,36867939,23000000,41000000,434737.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_063_CanalCongressAR18.pdf,11/12/1998,12/31/2022
-Central West,086,2018,23591439,217488844,,70617714,28162838,49763204,15386600,,327625.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_086_CentralWestAR18.pdf,2/16/2000,12/31/2024
-Chicago/Central Park,115,2018,7013275,76103908,18026466,101283414,33646395,27776452,,,94790.00,4848830.10,Amalgamated Bank of Chicago,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_115_ChicagoCentralParkAR18.pdf,2/27/2002,12/31/2026
-Chicago/Kingsbury,094,2018,34034914,244752947,,0,5795267,57917125,10000000,,401424.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_094_ChicagoKingsburyAR18.pdf,4/12/2000,12/31/2024
-Clark/Montrose,070,2018,4006047,35334266,,2000000,760688,11726353,2925100,,51898.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_070_ClarkMontroseAR18.pdf,7/7/1999,7/7/2022
-Clark/Ridge,074,2018,2719709,29191322,,0,752034,7897915,772400,1400000,34217.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_074_ClarkRidgeAR18.pdf,9/29/1999,9/29/2022
-Cicero/Archer,096,2018,827681,11197947,,0,694829,4607662,55200,,10651.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_096_CiceroArcherAR18.pdf,5/17/2000,12/31/2024
-Commercial Avenue,128,2018,1448315,19486942,,0,230921,8773336,83900,,18997.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_128_CommercialAR18.pdf,11/13/2002,12/31/2026
-Devon/Sheridan,134,2018,1818149,6474696,,3136000,25607,5633547,,,22240.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_134_DevonSheridanAR18.pdf,3/31/2004,12/31/2028
-Devon/Western,076,2018,3182846,37361363,,3340000,164354,2509501,,1968193,41346.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_076_DevonWesternAR18.pdf,11/3/1999,12/31/2023
-Diversey/Chicago River,179,2018,0,0,,350000,331165,21875,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_179_DiverseyChicagoRiverAR18.pdf,10/5/2016,12/31/2040
-Diversey/Narragansett,129,2018,3061965,27459987,,0,1643636,4470807,619500,,34389.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_129_DiverseyNarragansettAR18.pdf,2/5/2003,12/31/2027
-Division/Homan,107,2018,1417901,16536987,,0,772798,6259351,102700,,19281.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_107_DivisionHomanAR18.pdf,6/27/2001,12/31/2025
-Drexel Boulevard,122,2018,307955,3955802,,0,443793,0,358242,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_122_DrexelAR18.pdf,7/10/2002,12/31/2018
-Edgewater/Ashland,130,2018,524766,7296198,1400000,1400000,810600,5103894,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_130_EdgewaterAshlandAR18.pdf,10/1/2003,12/31/2027
-Elston/Armstrong Industrial Corridor,153,2018,596074,3744560,,0,20055,1512826,32500,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_153_ElstonArmstrongAR18.pdf,7/19/2007,12/31/2031
-Englewood Mall,021,2018,1060813,10534231,,7545883,15231,4113740,,,12129.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_021_EnglewoodMallAR18.pdf,11/29/1989,12/31/2025
-Englewood Neighborhood,106,2018,4499023,61563376,,0,2634888,23202086,500200,,61750.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_106_EnglewoodNeighborhoodAR18.pdf,6/27/2001,12/31/2025
-Ewing Avenue,169,2018,275802,1789142,,6508056,6458,533133,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_169_EwingAR18.pdf,3/10/2010,12/31/2034
-Foster/California,177,2018,335096,359325,366666,5278162,377039,341649,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_177_FosterCaliforniaAR18.pdf,4/2/2014,12/31/2038
-Fullerton/Milwaukee,087,2018,9685642,93306942,,52044,3691128,20863786,,,38075.00,2659063.80,Amalgamated Bank of Chicago,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_087_FullertonMilwaukeeAR18.pdf,2/16/2000,12/31/2024
-Galewood/Armitage Industrial,071,2018,4268101,38361473,2059694,20197449,4159989,15009202,,,55133.00,3693494.90,Amalgamated Bank of Chicago,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_071_GalewoodArmitageAR18.pdf,7/7/1999,12/31/2023
-Goose Island,023,2018,6556364,64763626,,10000000,5831039,15063037,1030100,,77427.00,4548341.25,Amalgamated Bank of Chicago,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_023_GooseIslandAR18.pdf,7/10/1996,7/10/2019
-Greater Southwest Industrial (East),066,2018,1230366,12073233,,0,910454,3218971,76100,,15435.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_066_GreaterSouthwestEastAR18.pdf,3/10/1999,12/31/2023
-Greater Southwest Industrial (West),092,2018,354022,12722393,976540,976540,94314,5154471,10800,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_092_GreaterSouthwestWestAR18.pdf,4/12/2000,12/31/2024
-Harlem Industrial Park Conservation Area,148,2018,0,971268,,0,13989,406906,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_148_HarlemAR18.pdf,3/14/2007,12/31/2031
-Harrison/Central,144,2018,254477,4598166,,7348645,294549,1232208,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_144_HarrisonCentralAR18.pdf,7/26/2006,12/31/2030
-Hollywood/Sheridan,157,2018,64919,2609247,575824,11500272,651387,1116821,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_157_HollywoodSheridanAR18.pdf,11/7/2007,12/31/2031
-Homan/Arthington,024,2018,775390,9556368,,1062798,1028548,3249351,52100,,11699.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_024_HomanArthingtonAR18.pdf,2/5/1998,2/5/2021
-Humboldt Park Commercial,108,2018,4206656,40338245,,0,2873242,11130203,1267300,,55746.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_108_HumboldtParkAR18.pdf,6/27/2001,12/31/2025
-Irving Park/Elston,165,2018,-1287,933801,,0,5212,454622,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_165_IrvingParkElstonAR18.pdf,5/13/2009,12/31/2033
-Irving/Cicero,027,2018,873011,12005610,,1291443,0,2120418,437000,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_027_IrvingCiceroAR18.pdf,6/10/1996,12/31/2020
-Jefferson Park,057,2018,1273810,13013471,,853000,133866,6576330,81900,,18132.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_057_JeffersonParkAR18.pdf,9/9/1998,9/9/2021
-Jefferson/Roosevelt,101,2018,7908634,68644895,,12500000,593760,8874959,5000000,,107792.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_101_JeffersonRooseveltAR18.pdf,8/30/2000,12/31/2024
-Kennedy/Kimball,160,2018,353494,1318377,,0,7677,733865,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_160_KennedyKimballAR18.pdf,3/12/2008,12/31/2032
-Kinzie Industrial Corridor,052,2018,44057698,320720165,,0,27751066,95678423,,18730088,528268.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_052_KinzieAR18.pdf,6/10/1998,12/31/2022
-Lake Calumet Area Industrial,103,2018,4155705,44323977,,4284000,1491911,12538756,,,48189.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_103_LakeCalumetAR18.pdf,12/13/2000,12/31/2024
-Lakefront,119,2018,413483,3536308,,0,201987,1232909,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_119_LakefrontAR18.pdf,3/27/2002,12/31/2026
-LaSalle Central,147,2018,69007881,273466310,,8600000,11880023,84770867,15000000,7300000,833575.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_147_LaSalleCentralAR18.pdf,11/15/2006,12/31/2030
-Lawrence/Broadway,109,2018,4401829,46663546,,0,1240732,13691879,,575824,60772.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_109_LawrenceBroadwayAR18.pdf,6/27/2001,12/31/2025
-Lawrence/Kedzie,088,2018,7916347,99032552,,2500000,4233390,13018818,,,103103.00,3952750.00,Zions Bank,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_088_LawrenceKedzieAR18.pdf,2/16/2000,12/31/2024
-Lawrence/Pulaski,116,2018,1702042,18756609,,2900000,226233,6987302,,,22253.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_116_LawrencePulaskiAR18.pdf,2/27/2002,12/31/2026
-Lincoln Avenue,077,2018,3972755,41959695,10500000,22342064,17116614,4084255,,,48163.00,16879750.00,Zions Bank,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_077_LincolnAvenueAR18.pdf,11/3/1999,12/31/2023
-Lincoln/Belmont/Ashland,028,2018,1140015,22879686,,0,696311,0,1350820,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_028_LincolnBelmontAshlandAR18.pdf,11/2/1994,12/31/2018
-Little Village Industrial Corridor,152,2018,99,2079529,,0,169056,1086572,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_152_LittleVillageAR18.pdf,6/13/2007,12/31/2031
-Little Village East,164,2018,-368,464610,,0,3408,359866,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_164_LittleVillageEastAR18.pdf,4/22/2009,12/31/2033
-Madden/Wells,126,2018,1359250,11498816,,1051820,3527718,2791942,,,20943.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_126_MaddenWellsAR18.pdf,11/6/2002,12/31/2026
-Madison/Austin Corridor,075,2018,2474574,27693790,18890000,64507897,28325048,3321686,,,32553.00,27406062.50,Zions Bank,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_075_MadisonAustinAR18.pdf,9/29/1999,12/31/2023
-Michigan/Cermak,029,2018,1871123,16101651,,13810000,115998,6344105,3000000,,25875.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_029_MichiganCermakAR18.pdf,9/13/1989,12/31/2025
-Midway Industrial Corridor,089,2018,2748443,33907290,,0,229329,4346498,,11641286,57972.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_089_MidwayAR18.pdf,2/16/2000,12/31/2024
-Midwest,095,2018,18834683,195300861,8500000,12254510,22260083,33846122,,14086378,252619.00,15807770.83,Zions Bank,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_095_MidwestAR18.pdf,5/17/2000,12/31/2036
-Montclare,102,2018,344426,4836908,,0,207496,725436,24300,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_102_MontclareAR18.pdf,8/30/2000,12/31/2024
-Montrose/Clarendon,173,2018,266331,1086448,,0,6994,1063411,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_173_MontroseClarendonAR18.pdf,6/30/2010,12/31/2034
-Near North,030,2018,33785985,292508726,,3546644,7224212,87184078,5805100,,397360.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_030_NearNorthAR18.pdf,7/30/1997,7/30/2020
-North Branch North,033,2018,6536401,70043180,,180604,788936,20002096,1739500,,83238.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_033_NorthBranchNorthAR18.pdf,7/2/1997,12/31/2021
-North Branch South,034,2018,12267939,101519491,,2500000,495859,42726830,1685000,,154917.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_034_NorthBranchSouthAR18.pdf,2/5/1998,2/5/2021
-North/Cicero,035,2018,2250355,19721458,,0,31385,7170288,348000,,23142.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_035_NorthCiceroAR18.pdf,7/30/1997,7/30/2020
-Northwest Industrial Corridor,064,2018,9058076,95836451,,521583,12104115,13966406,,5087647,115279.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_064_NorthwestAR18.pdf,12/2/1998,12/31/2022
-Ohio/Wabash,100,2018,1988062,22292120,,0,1829557,1973489,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_100_OhioWabashAR18.pdf,6/7/2000,12/31/2024
-North Pullman,166,2018,1237566,5358781,946978,16680164,1101473,2839240,,,17425.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_166_NorthPullmanAR18.pdf,6/30/2009,12/31/2033
-Ogden/Pulaski,161,2018,19177,7661471,,1000000,1290277,2899043,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_161_OgdenPulaskiAR18.pdf,4/9/2008,12/31/2032
-Pershing/King,154,2018,0,445664,,7025826,2812,165438,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_154_PershingKingAR18.pdf,9/5/2007,12/31/2031
-Peterson/Cicero,090,2018,511465,5170052,,0,96828,2384076,831500,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_090_PetersonCiceroAR18.pdf,2/16/2000,12/31/2024
-Peterson/Pulaski,091,2018,1733263,14028421,,0,578394,6605640,1559200,,20834.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_091_PetersonPulaskiAR18.pdf,2/16/2000,12/31/2024
-Pilsen Industrial Corridor,053,2018,17666066,163943011,,0,7484407,45727431,6830200,,226980.00,4580012.23,Amalgamated Bank of Chicago,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_053_PilsenAR18.pdf,6/10/1998,12/31/2022
-Portage Park,058,2018,3072230,37717238,,0,441325,12201553,164700,,39354.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_058_PortageParkAR18.pdf,9/9/1998,9/9/2021
-Pratt/Ridge Industrial Park Conservation Area,135,2018,688699,3011900,,0,9290,2053482,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_135_PrattRidgeAR18.pdf,6/23/2004,12/31/2028
-Pulaski Industrial Corridor,069,2018,4484724,45526925,,3000000,987184,12379600,,3100000,58925.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_069_PulaskiAR18.pdf,6/9/1999,12/31/2023
-Ravenswood Corridor,139,2018,1815608,11917690,,500000,359279,0,2781807,500000,27417.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_139_RavenswoodAR18.pdf,3/9/2005,12/31/2018
-Randolph/Wells,172,2018,394105,2130674,,29632000,468901,633053,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_172_RandolphWellsAR18.pdf,6/9/2010,12/31/2034
-Read/Dunning,036,2018,2486981,51606182,1700000,3511000,4450749,0,5700640,500000,41418.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_036_ReadDunningAR18.pdf,1/11/1991,12/31/2018
-River South,037,2018,31707329,235290928,41000000,92373006,36587034,79780759,,,338030.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_037_RiverSouthAR18.pdf,7/30/1997,7/30/2020
-River West,104,2018,22699022,182087909,,0,2320848,63244598,20000000,,305298.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_104_RiverWestAR18.pdf,1/10/2001,12/31/2025
-Roosevelt/Cicero Industrial Corridor,038,2018,3575404,36430183,,0,335180,13636864,636800,,45389.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_038_RooseveltCiceroAR18.pdf,2/5/1998,2/5/2021
-Roosevelt/Racine,062,2018,2056810,19798973,1000000,1000000,4475555,4926758,,,28463.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_062_RooseveltRacineAR18.pdf,11/4/1998,12/31/2034
-Roosevelt/Union,068,2018,5580155,60956980,,0,5265100,7531592,,,79007.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_068_RooseveltUnionAR18.pdf,5/12/1999,5/12/2022
-Roseland/Michigan,113,2018,608518,7173481,,0,32564,949683,,946978,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_113_RoselandMichiganAR18.pdf,1/16/2002,12/31/2026
-Red Purple Modernization Phase One (Transit TIF),180,2018,16694184,25028082,,0,222191,24419197,,,214034.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_180_RPMPhaseOneProjectAR18.pdf,11/30/2016,12/31/2052
-Sanitary and Ship Canal,042,2018,887464,16054798,,0,12790,2449630,,,10038.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_042_SanitaryDrainageShipCanalAR18.pdf,7/24/1991,12/31/2027
-South Chicago,093,2018,1535490,17322957,,0,1063300,7200502,229500,,19797.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_093_SouthChicagoAR18.pdf,4/12/2000,12/31/2024
-South Works Industrial,078,2018,0,1461963,,0,263164,991485,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_078_SouthWorksAR18.pdf,11/3/1999,12/31/2023
-Stevenson Brighton,149,2018,3858324,12424343,300000,2300000,2227136,3755821,,,51310.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_149_StevensonBrightonAR18.pdf,4/11/2007,12/31/2031
-Stockyards Annex,043,2018,1932172,26635830,,525000,195567,6975299,1047900,,24816.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_043_StockyardsAnnexAR18.pdf,12/11/1996,12/31/2020
-Stockyards Southeast Quadrant Industrial,045,2018,1889945,40381975,,3675608,30206,5839650,1236900,,24368.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_045_StockyardsSEQuadrantAR18.pdf,2/26/1992,12/31/2028
-Stony Island Commercial/Burnside Industrial,054,2018,4086967,42133216,,0,1858570,7931788,,1822797,52809.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_054_StonyIslandBurnsideAR18.pdf,6/10/1998,12/31/2034
-Touhy/Western,146,2018,361450,4523915,1968193,18006344,2453260,3776762,,,,1751333.60,Amalgamated Bank of Chicago,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_146_TouhyWesternAR18.pdf,9/13/2006,12/31/2030
-Washington Park,178,2018,928492,1454666,1587500,1887500,1689723,1583992,,,11788.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_178_WashingtonParkAR18.pdf,10/8/2014,12/31/2038
-Weed/Fremont,158,2018,431528,4513853,,0,747325,0,942316,,12166.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_158_WeedFremontAR18.pdf,1/9/2008,12/31/2018
-West Irving Park,083,2018,1352551,14599956,500000,2500000,759956,2683662,721800,1700000,16924.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_083_WestIrvingParkAR18.pdf,1/12/2000,12/31/2024
-Western Avenue North,084,2018,9399511,77867290,250000,2250000,3142121,7575935,,10866666,117221.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_084_WesternNorthAR18.pdf,1/12/2000,12/31/2024
-Western Avenue South,085,2018,9169536,91062182,250000,250000,518876,24578728,4088600,,122964.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_085_WesternSouthAR18.pdf,1/12/2000,12/31/2024
-Western/Rock Island,142,2018,1219200,13074435,1831115,5031115,2317530,1748954,,,15095.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_142_WesternRockIslandAR18.pdf,2/8/2006,12/31/2030
-West Woodlawn,171,2018,-911,96451,,1500000,16470,286258,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_171_WestWoodlawnAR18.pdf,5/12/2010,12/31/2034
-Wilson Yard,110,2018,9384917,97408147,,0,6560704,17506562,,,124208.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_110_WilsonYardAR18.pdf,6/27/2001,12/31/2025
-Woodlawn,065,2018,3544196,41351428,,0,55204,14406879,,1850624,48383.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_065_WoodlawnAR18.pdf,1/20/1999,1/20/2022
-Western/Ogden,048,2018,10971584,104157304,,0,1891228,28830985,6459500,5500000,138618.00,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_048_WesternOgdenAR18.pdf,2/5/1998,2/5/2021
+name,number,year,extraction_annual,extraction_cumulative,transfers_in_annual,transfers_in_cumulative,expenses_annual,balance,transfers_out,distribution,city_admin_costs,finance_costs,bank,finance_costs_2,bank_2,url,creation,expiration
+24th/Michigan,072,2018,3391228,18011510,,136861677,887746,15544540,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_072_24thMichiganAR18.pdf,7/21/1999,7/21/2022
+26th/King Drive,141,2018,806341,7402785,,0,742264,1445743,,,12048.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_141_26thKingAR18.pdf,1/11/2006,12/31/2030
+35th/Halsted,001,2018,8659118,71541377,,3243618,1899028,28904728,6275200,,114557.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_001_35thHalstedAR18.pdf,1/14/1997,12/31/2021
+35th/State,131,2018,2124744,17837367,,3500000,1912455,2378974,60000,,31605.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_131_35thStateAR18.pdf,1/14/2004,12/31/2028
+35th/Wallace,079,2018,1122001,9352659,,0,178167,6770170,860200,,15680.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_079_35thWallaceAR18.pdf,12/15/1999,12/31/2023
+"Forty-First Street and Dr. Martin Luther King, Jr. Drive",002,2018,206032,3332690,,0,173489,0,1309226,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_002_41stKingAR18.pdf,7/13/1994,12/31/2018
+43rd/Cottage Grove,055,2018,3780170,37084457,,0,2238539,14273179,612200,,50944.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_055_43rdCottageGroveAR18.pdf,7/8/1998,12/31/2022
+47th/Ashland,117,2018,2881107,34524337,,2431313,2402541,10515107,,,37508.00,1680102.10,Amalgamated Bank of Chicago,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_117_47thAshlandAR18.pdf,3/27/2002,12/31/2026
+47th/Halsted,121,2018,3257158,38774952,,3950064,1510235,12436784,400000,1587500,44117.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_121_47thHalstedAR18.pdf,5/29/2002,12/31/2026
+47th/King Drive,118,2018,7896419,93260588,,0,3959835,21340282,4108300,400000,106096.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_118_47thKingAR18.pdf,3/27/2002,12/31/2026
+47th/State,136,2018,1591896,18615380,,0,115444,10610302,3347400,,21526.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_136_47thStateAR18.pdf,7/21/2004,12/31/2028
+49th/St. Lawrence,004,2018,465973,6532312,,0,176422,1641443,127100,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_004_49thStLawrenceAR18.pdf,1/10/1996,12/31/2020
+51st/Archer,097,2018,785968,9367592,13954017,45607888,18580306,3171304,,,10405.00,17486333.33,Zions Bank,1030694.90,Amalgamated Bank of Chicago,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_097_51stArcherAR18.pdf,5/17/2000,12/31/2024
+51st/Lake Park,175,2018,1868886,2063038,,0,206533,1831507,,,17151.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_175_51stLakeParkAR18.pdf,11/15/2012,12/31/2036
+53rd Street,105,2018,5556590,24839463,,0,3773382,7603473,,,69944.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_105_53rdAR18.pdf,1/10/2001,12/31/2025
+60th/Western,005,2018,254863,5769605,,0,5897,1861181,13700,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_005_60thWesternAR18.pdf,5/9/1996,5/9/2019
+63rd/Ashland,143,2018,1188764,8130370,,4100000,1567774,4503734,,,16077.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_143_63rdAshlandAR18.pdf,3/29/2006,12/31/2030
+63rd/Pulaski,098,2018,2201497,29541098,,0,167431,3443456,,2612731,28513.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_098_63rdPulaskiAR18.pdf,5/17/2000,12/31/2024
+67th/Cicero,124,2018,286665,3515836,,3284023,192213,817250,21300,976540,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_124_67thCiceroAR18.pdf,10/2/2002,12/31/2026
+67th/Wentworth,174,2018,0,0,,625000,124635,504876,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_174_67thWentworthAR18.pdf,5/4/2011,12/31/2035
+71st/Stony Island,060,2018,3400461,45588581,5565642,57288397,8552710,16195797,,,44521.00,8277000.00,Zions Bank,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_060_71stStonyIslandAR18.pdf,10/7/1998,10/7/2021
+73rd/University,145,2018,432603,4620889,,0,8414,1663786,33000,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_145_73rdUniversityAR18.pdf,9/13/2006,12/31/2030
+79th Street Corridor,056,2018,969073,12214759,,0,127914,7118708,72800,,12754.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_056_79thAR18.pdf,7/8/1998,7/8/2021
+79th/Cicero,140,2018,605606,5203264,,0,492366,743313,41900,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_140_79thCiceroAR18.pdf,6/8/2005,12/31/2029
+79th/Southwest Highway,112,2018,1756655,18294215,,0,274514,6284609,2172800,,21415.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_112_79thSWHighwayAR18.pdf,10/3/2001,12/31/2025
+79th/Vincennes,155,2018,176688,2854417,,0,5189,1964836,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_155_79thVincennesAR18.pdf,9/27/2007,12/31/2031
+83rd/Stewart,133,2018,1376141,8319105,,0,1268014,1480509,,,17394.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_133_83rdStewartAR18.pdf,3/31/2004,12/31/2028
+87th/Cottage Grove,127,2018,1892689,26163839,,625000,603793,1750507,,1892221,26494.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_127_87thCottageGroveAR18.pdf,11/13/2002,12/31/2026
+95th/Western,009,2018,1221138,14510402,,1200000,169065,1987306,,1000000,15234.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_009_95thWesternAR18.pdf,7/13/1995,12/31/2019
+105th/Vincennes,111,2018,1038646,5989028,706761,2320284,1426644,2524684,,,14568.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_111_105thVincennesAR18.pdf,10/3/2001,12/31/2025
+107th/Halsted,176,2018,587691,1736732,,1000000,167314,2508350,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_176_107thHalstedAR18.pdf,4/2/2014,12/31/2038
+111th/Kedzie,073,2018,940598,8817043,,0,154364,1666772,52400,500000,11322.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_073_111thKedzieAR18.pdf,9/29/1999,9/29/2022
+116th/Avenue O,182,2018,,0,,0,0,0,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_182_116thAvenueOAR18.pdf,10/31/2018,12/31/2042
+119th/Halsted,114,2018,1335553,10579283,,97500,173525,4498791,210500,,18644.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_114_119thHalstedAR18.pdf,2/6/2002,12/31/2026
+119th/I-57,125,2018,3349436,28955082,,950000,2309480,7416429,1057800,1037876,56084.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_125_119thI57AR18.pdf,11/6/2002,12/31/2026
+Addison South,150,2018,4441304,28692358,,0,886009,13242302,1549300,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_150_AddisonSouthAR18.pdf,5/9/2007,12/31/2031
+Archer/Central,099,2018,518610,9217233,,240000,311894,1564719,27300,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_099_ArcherCentralAR18.pdf,5/17/2000,12/31/2024
+Archer Courts,067,2018,497213,5479532,,2235487,124663,1883357,174700,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_067_ArcherCourtsAR18.pdf,5/12/1999,12/31/2023
+Archer/Western,163,2018,28921,1189030,,0,110756,623030,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_163_ArcherWesternAR18.pdf,2/11/2009,12/31/2033
+Armitage/Pulaski,151,2018,204325,1962010,,0,279652,837738,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_151_ArmitagePulaskiAR18.pdf,6/13/2007,12/31/2031
+Austin Commercial,156,2018,1093192,10330821,,235000,589979,5015699,,,14249.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_156_AustinCommercialAR18.pdf,9/27/2007,12/31/2031
+Avalon Park/South Shore,123,2018,498862,7889091,,0,117868,2738612,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_123_AvalonSouthShoreAR18.pdf,7/31/2002,12/31/2026
+Avondale,167,2018,66858,583738,,2900000,1224775,1297597,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_167_AvondaleAR18.pdf,7/29/2009,12/31/2033
+Belmont/Central,081,2018,6597854,45500879,,938,549568,14097845,,1972047,86097.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_081_BelmontCentralAR18.pdf,1/12/2000,12/31/2024
+Belmont/Cicero,082,2018,1388444,17048349,,0,330330,3701996,272600,,16787.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_082_BelmontCiceroAR18.pdf,1/12/2000,12/31/2024
+Bronzeville,061,2018,4326561,56192854,400000,5400000,334453,23028967,500000,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_061_BronzevilleAR18.pdf,11/4/1998,12/31/2022
+Bryn Mawr/Broadway,013,2018,2361236,27503468,,4684947,10485540,5626821,1138200,,32713.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_013_BrynMawrBroadwayAR18.pdf,12/11/1996,12/11/2019
+Calumet/Cermak,059,2018,12820529,157319582,,28000000,2408626,0,20859605,,184640.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_059_CalumetCermakAR18.pdf,7/29/1998,12/31/2018
+Canal/Congress,063,2018,35344020,307707258,7300000,8391731,12623946,36867939,23000000,41000000,434737.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_063_CanalCongressAR18.pdf,11/12/1998,12/31/2022
+Central West,086,2018,23591439,217488844,,70617714,28162838,49763204,15386600,,327625.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_086_CentralWestAR18.pdf,2/16/2000,12/31/2024
+Chicago/Central Park,115,2018,7013275,76103908,18026466,101283414,33646395,27776452,,,94790.00,27322395.83,Zions Bank,4848830.10,Amalgamated Bank of Chicago,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_115_ChicagoCentralParkAR18.pdf,2/27/2002,12/31/2026
+Chicago/Kingsbury,094,2018,34034914,244752947,,0,5795267,57917125,10000000,,401424.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_094_ChicagoKingsburyAR18.pdf,4/12/2000,12/31/2024
+Clark/Montrose,070,2018,4006047,35334266,,2000000,760688,11726353,2925100,,51898.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_070_ClarkMontroseAR18.pdf,7/7/1999,7/7/2022
+Clark/Ridge,074,2018,2719709,29191322,,0,752034,7897915,772400,1400000,34217.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_074_ClarkRidgeAR18.pdf,9/29/1999,9/29/2022
+Cicero/Archer,096,2018,827681,11197947,,0,694829,4607662,55200,,10651.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_096_CiceroArcherAR18.pdf,5/17/2000,12/31/2024
+Commercial Avenue,128,2018,1448315,19486942,,0,230921,8773336,83900,,18997.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_128_CommercialAR18.pdf,11/13/2002,12/31/2026
+Devon/Sheridan,134,2018,1818149,6474696,,3136000,25607,5633547,,,22240.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_134_DevonSheridanAR18.pdf,3/31/2004,12/31/2028
+Devon/Western,076,2018,3182846,37361363,,3340000,164354,2509501,,1968193,41346.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_076_DevonWesternAR18.pdf,11/3/1999,12/31/2023
+Diversey/Chicago River,179,2018,0,0,,350000,331165,21875,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_179_DiverseyChicagoRiverAR18.pdf,10/5/2016,12/31/2040
+Diversey/Narragansett,129,2018,3061965,27459987,,0,1643636,4470807,619500,,34389.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_129_DiverseyNarragansettAR18.pdf,2/5/2003,12/31/2027
+Division/Homan,107,2018,1417901,16536987,,0,772798,6259351,102700,,19281.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_107_DivisionHomanAR18.pdf,6/27/2001,12/31/2025
+Drexel Boulevard,122,2018,307955,3955802,,0,443793,0,358242,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_122_DrexelAR18.pdf,7/10/2002,12/31/2018
+Edgewater/Ashland,130,2018,524766,7296198,1400000,1400000,810600,5103894,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_130_EdgewaterAshlandAR18.pdf,10/1/2003,12/31/2027
+Elston/Armstrong Industrial Corridor,153,2018,596074,3744560,,0,20055,1512826,32500,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_153_ElstonArmstrongAR18.pdf,7/19/2007,12/31/2031
+Englewood Mall,021,2018,1060813,10534231,,7545883,15231,4113740,,,12129.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_021_EnglewoodMallAR18.pdf,11/29/1989,12/31/2025
+Englewood Neighborhood,106,2018,4499023,61563376,,0,2634888,23202086,500200,,61750.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_106_EnglewoodNeighborhoodAR18.pdf,6/27/2001,12/31/2025
+Ewing Avenue,169,2018,275802,1789142,,6508056,6458,533133,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_169_EwingAR18.pdf,3/10/2010,12/31/2034
+Foster/California,177,2018,335096,359325,366666,5278162,377039,341649,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_177_FosterCaliforniaAR18.pdf,4/2/2014,12/31/2038
+Foster/Edens,181,2018,,0,,0,0,0,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_181_FosterEdensAR18.pdf,2/28/2018,12/31/2042
+Fullerton/Milwaukee,087,2018,9685642,93306942,,52044,3691128,20863786,,,38075.00,2659063.80,Amalgamated Bank of Chicago,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_087_FullertonMilwaukeeAR18.pdf,2/16/2000,12/31/2024
+Galewood/Armitage Industrial,071,2018,4268101,38361473,2059694,20197449,4159989,15009202,,,55133.00,3693494.90,Amalgamated Bank of Chicago,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_071_GalewoodArmitageAR18.pdf,7/7/1999,12/31/2023
+Goose Island,023,2018,6556364,64763626,,10000000,5831039,15063037,1030100,,77427.00,4548341.25,Amalgamated Bank of Chicago,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_023_GooseIslandAR18.pdf,7/10/1996,7/10/2019
+Greater Southwest Industrial (East),066,2018,1230366,12073233,,0,910454,3218971,76100,,15435.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_066_GreaterSouthwestEastAR18.pdf,3/10/1999,12/31/2023
+Greater Southwest Industrial (West),092,2018,354022,12722393,976540,976540,94314,5154471,10800,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_092_GreaterSouthwestWestAR18.pdf,4/12/2000,12/31/2024
+Harlem Industrial Park Conservation Area,148,2018,0,971268,,0,13989,406906,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_148_HarlemAR18.pdf,3/14/2007,12/31/2031
+Harrison/Central,144,2018,254477,4598166,,7348645,294549,1232208,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_144_HarrisonCentralAR18.pdf,7/26/2006,12/31/2030
+Hollywood/Sheridan,157,2018,64919,2609247,575824,11500272,651387,1116821,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_157_HollywoodSheridanAR18.pdf,11/7/2007,12/31/2031
+Homan/Arthington,024,2018,775390,9556368,,1062798,1028548,3249351,52100,,11699.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_024_HomanArthingtonAR18.pdf,2/5/1998,2/5/2021
+Humboldt Park Commercial,108,2018,4206656,40338245,,0,2873242,11130203,1267300,,55746.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_108_HumboldtParkAR18.pdf,6/27/2001,12/31/2025
+Irving Park/Elston,165,2018,-1287,933801,,0,5212,454622,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_165_IrvingParkElstonAR18.pdf,5/13/2009,12/31/2033
+Irving/Cicero,027,2018,873011,12005610,,1291443,0,2120418,437000,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_027_IrvingCiceroAR18.pdf,6/10/1996,12/31/2020
+Jefferson Park,057,2018,1273810,13013471,,853000,133866,6576330,81900,,18132.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_057_JeffersonParkAR18.pdf,9/9/1998,9/9/2021
+Jefferson/Roosevelt,101,2018,7908634,68644895,,12500000,593760,8874959,5000000,,107792.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_101_JeffersonRooseveltAR18.pdf,8/30/2000,12/31/2024
+Kennedy/Kimball,160,2018,353494,1318377,,0,7677,733865,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_160_KennedyKimballAR18.pdf,3/12/2008,12/31/2032
+Kinzie Industrial Corridor,052,2018,44057698,320720165,,0,27751066,95678423,,18730088,528268.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_052_KinzieAR18.pdf,6/10/1998,12/31/2022
+Lake Calumet Area Industrial,103,2018,4155705,44323977,,4284000,1491911,12538756,,,48189.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_103_LakeCalumetAR18.pdf,12/13/2000,12/31/2024
+Lakefront,119,2018,413483,3536308,,0,201987,1232909,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_119_LakefrontAR18.pdf,3/27/2002,12/31/2026
+LaSalle Central,147,2018,69007881,273466310,,8600000,11880023,84770867,15000000,7300000,833575.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_147_LaSalleCentralAR18.pdf,11/15/2006,12/31/2030
+Lawrence/Broadway,109,2018,4401829,46663546,,0,1240732,13691879,,575824,60772.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_109_LawrenceBroadwayAR18.pdf,6/27/2001,12/31/2025
+Lawrence/Kedzie,088,2018,7916347,99032552,,2500000,4233390,13018818,,,103103.00,3952750.00,Zions Bank,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_088_LawrenceKedzieAR18.pdf,2/16/2000,12/31/2024
+Lawrence/Pulaski,116,2018,1702042,18756609,,2900000,226233,6987302,,,22253.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_116_LawrencePulaskiAR18.pdf,2/27/2002,12/31/2026
+Lincoln Avenue,077,2018,3972755,41959695,10500000,22342064,17116614,4084255,,,48163.00,16879750.00,Zions Bank,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_077_LincolnAvenueAR18.pdf,11/3/1999,12/31/2023
+Lincoln/Belmont/Ashland,028,2018,1140015,22879686,,0,696311,0,1350820,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_028_LincolnBelmontAshlandAR18.pdf,11/2/1994,12/31/2018
+Little Village Industrial Corridor,152,2018,99,2079529,,0,169056,1086572,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_152_LittleVillageAR18.pdf,6/13/2007,12/31/2031
+Little Village East,164,2018,-368,464610,,0,3408,359866,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_164_LittleVillageEastAR18.pdf,4/22/2009,12/31/2033
+Madden/Wells,126,2018,1359250,11498816,,1051820,3527718,2791942,,,20943.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_126_MaddenWellsAR18.pdf,11/6/2002,12/31/2026
+Madison/Austin Corridor,075,2018,2474574,27693790,18890000,64507897,28325048,3321686,,,32553.00,27406062.50,Zions Bank,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_075_MadisonAustinAR18.pdf,9/29/1999,12/31/2023
+Michigan/Cermak,029,2018,1871123,16101651,,13810000,115998,6344105,3000000,,25875.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_029_MichiganCermakAR18.pdf,9/13/1989,12/31/2025
+Midway Industrial Corridor,089,2018,2748443,33907290,,0,229329,4346498,,11641286,57972.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_089_MidwayAR18.pdf,2/16/2000,12/31/2024
+Midwest,095,2018,18834683,195300861,8500000,12254510,22260083,33846122,,14086378,252619.00,15807770.83,Zions Bank,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_095_MidwestAR18.pdf,5/17/2000,12/31/2036
+Montclare,102,2018,344426,4836908,,0,207496,725436,24300,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_102_MontclareAR18.pdf,8/30/2000,12/31/2024
+Montrose/Clarendon,173,2018,266331,1086448,,0,6994,1063411,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_173_MontroseClarendonAR18.pdf,6/30/2010,12/31/2034
+Near North,030,2018,33785985,292508726,,3546644,7224212,87184078,5805100,,397360.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_030_NearNorthAR18.pdf,7/30/1997,7/30/2020
+North Branch North,033,2018,6536401,70043180,,180604,788936,20002096,1739500,,83238.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_033_NorthBranchNorthAR18.pdf,7/2/1997,12/31/2021
+North Branch South,034,2018,12267939,101519491,,2500000,495859,42726830,1685000,,154917.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_034_NorthBranchSouthAR18.pdf,2/5/1998,2/5/2021
+North/Cicero,035,2018,2250355,19721458,,0,31385,7170288,348000,,23142.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_035_NorthCiceroAR18.pdf,7/30/1997,7/30/2020
+Northwest Industrial Corridor,064,2018,9058076,95836451,,521583,12104115,13966406,,5087647,115279.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_064_NorthwestAR18.pdf,12/2/1998,12/31/2022
+Ohio/Wabash,100,2018,1988062,22292120,,0,1829557,1973489,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_100_OhioWabashAR18.pdf,6/7/2000,12/31/2024
+North Pullman,166,2018,1237566,5358781,946978,16680164,1101473,2839240,,,17425.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_166_NorthPullmanAR18.pdf,6/30/2009,12/31/2033
+Ogden/Pulaski,161,2018,19177,7661471,,1000000,1290277,2899043,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_161_OgdenPulaskiAR18.pdf,4/9/2008,12/31/2032
+Pershing/King,154,2018,0,445664,,7025826,2812,165438,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_154_PershingKingAR18.pdf,9/5/2007,12/31/2031
+Peterson/Cicero,090,2018,511465,5170052,,0,96828,2384076,831500,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_090_PetersonCiceroAR18.pdf,2/16/2000,12/31/2024
+Peterson/Pulaski,091,2018,1733263,14028421,,0,578394,6605640,1559200,,20834.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_091_PetersonPulaskiAR18.pdf,2/16/2000,12/31/2024
+Pilsen Industrial Corridor,053,2018,17666066,163943011,,0,7484407,45727431,6830200,,226980.00,4580012.23,Amalgamated Bank of Chicago,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_053_PilsenAR18.pdf,6/10/1998,12/31/2022
+Portage Park,058,2018,3072230,37717238,,0,441325,12201553,164700,,39354.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_058_PortageParkAR18.pdf,9/9/1998,9/9/2021
+Pratt/Ridge Industrial Park Conservation Area,135,2018,688699,3011900,,0,9290,2053482,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_135_PrattRidgeAR18.pdf,6/23/2004,12/31/2028
+Pulaski Industrial Corridor,069,2018,4484724,45526925,,3000000,987184,12379600,,3100000,58925.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_069_PulaskiAR18.pdf,6/9/1999,12/31/2023
+Ravenswood Corridor,139,2018,1815608,11917690,,500000,359279,0,2781807,500000,27417.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_139_RavenswoodAR18.pdf,3/9/2005,12/31/2018
+Randolph/Wells,172,2018,394105,2130674,,29632000,468901,633053,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_172_RandolphWellsAR18.pdf,6/9/2010,12/31/2034
+Read/Dunning,036,2018,2486981,51606182,1700000,3511000,4450749,0,5700640,500000,41418.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_036_ReadDunningAR18.pdf,1/11/1991,12/31/2018
+River South,037,2018,31707329,235290928,41000000,92373006,36587034,79780759,,,338030.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_037_RiverSouthAR18.pdf,7/30/1997,7/30/2020
+River West,104,2018,22699022,182087909,,0,2320848,63244598,20000000,,305298.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_104_RiverWestAR18.pdf,1/10/2001,12/31/2025
+Roosevelt/Cicero Industrial Corridor,038,2018,3575404,36430183,,0,335180,13636864,636800,,45389.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_038_RooseveltCiceroAR18.pdf,2/5/1998,2/5/2021
+Roosevelt/Racine,062,2018,2056810,19798973,1000000,1000000,4475555,4926758,,,28463.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_062_RooseveltRacineAR18.pdf,11/4/1998,12/31/2034
+Roosevelt/Union,068,2018,5580155,60956980,,0,5265100,7531592,,,79007.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_068_RooseveltUnionAR18.pdf,5/12/1999,5/12/2022
+Roseland/Michigan,113,2018,608518,7173481,,0,32564,949683,,946978,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_113_RoselandMichiganAR18.pdf,1/16/2002,12/31/2026
+Red Purple Modernization Phase One (Transit TIF),180,2018,16694184,25028082,,0,222191,24419197,,,214034.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_180_RPMPhaseOneProjectAR18.pdf,11/30/2016,12/31/2052
+Sanitary and Ship Canal,042,2018,887464,16054798,,0,12790,2449630,,,10038.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_042_SanitaryDrainageShipCanalAR18.pdf,7/24/1991,12/31/2027
+South Chicago,093,2018,1535490,17322957,,0,1063300,7200502,229500,,19797.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_093_SouthChicagoAR18.pdf,4/12/2000,12/31/2024
+South Works Industrial,078,2018,0,1461963,,0,263164,991485,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_078_SouthWorksAR18.pdf,11/3/1999,12/31/2023
+Stevenson Brighton,149,2018,3858324,12424343,300000,2300000,2227136,3755821,,,51310.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_149_StevensonBrightonAR18.pdf,4/11/2007,12/31/2031
+Stockyards Annex,043,2018,1932172,26635830,,525000,195567,6975299,1047900,,24816.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_043_StockyardsAnnexAR18.pdf,12/11/1996,12/31/2020
+Stockyards Southeast Quadrant Industrial,045,2018,1889945,40381975,,3675608,30206,5839650,1236900,,24368.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_045_StockyardsSEQuadrantAR18.pdf,2/26/1992,12/31/2028
+Stony Island Commercial/Burnside Industrial,054,2018,4086967,42133216,,0,1858570,7931788,,1822797,52809.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_054_StonyIslandBurnsideAR18.pdf,6/10/1998,12/31/2034
+Touhy/Western,146,2018,361450,4523915,1968193,18006344,2453260,3776762,,,,692973.96,Zions Bank,1751333.60,Amalgamated Bank of Chicago,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_146_TouhyWesternAR18.pdf,9/13/2006,12/31/2030
+Washington Park,178,2018,928492,1454666,1587500,1887500,1689723,1583992,,,11788.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_178_WashingtonParkAR18.pdf,10/8/2014,12/31/2038
+Weed/Fremont,158,2018,431528,4513853,,0,747325,0,942316,,12166.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_158_WeedFremontAR18.pdf,1/9/2008,12/31/2018
+West Irving Park,083,2018,1352551,14599956,500000,2500000,759956,2683662,721800,1700000,16924.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_083_WestIrvingParkAR18.pdf,1/12/2000,12/31/2024
+Western Avenue North,084,2018,9399511,77867290,250000,2250000,3142121,7575935,,10866666,117221.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_084_WesternNorthAR18.pdf,1/12/2000,12/31/2024
+Western Avenue South,085,2018,9169536,91062182,250000,250000,518876,24578728,4088600,,122964.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_085_WesternSouthAR18.pdf,1/12/2000,12/31/2024
+Western/Rock Island,142,2018,1219200,13074435,1831115,5031115,2317530,1748954,,,15095.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_142_WesternRockIslandAR18.pdf,2/8/2006,12/31/2030
+West Woodlawn,171,2018,-911,96451,,1500000,16470,286258,,,,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_171_WestWoodlawnAR18.pdf,5/12/2010,12/31/2034
+Wilson Yard,110,2018,9384917,97408147,,0,6560704,17506562,,,124208.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_110_WilsonYardAR18.pdf,6/27/2001,12/31/2025
+Woodlawn,065,2018,3544196,41351428,,0,55204,14406879,,1850624,48383.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_065_WoodlawnAR18.pdf,1/20/1999,1/20/2022
+Western/Ogden,048,2018,10971584,104157304,,0,1891228,28830985,6459500,5500000,138618.00,,,,,https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/T_048_WesternOgdenAR18.pdf,2/5/1998,2/5/2021
