@@ -1,6 +1,8 @@
 .DS_Store
 .vscode
 tabula.jar
-input/*.pdf
+input/*/*.pdf
+output/*/*.csv
 output/*.csv
 !output/data.csv
+!output/*/data.csv

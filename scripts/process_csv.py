@@ -16,7 +16,7 @@ if __name__ == "__main__":
     csv_dict = {
         "name": "",
         "number": re.search(r"(?<=_)\d+(?=_)", sys.argv[1]).group(),
-        "year": 2018,
+        "year": sys.argv[1].split("/")[0],
         "extraction_annual": "",
         "extraction_cumulative": "",
         "transfers_in_annual": "",
@@ -30,8 +30,9 @@ if __name__ == "__main__":
         "bank": "",
         "finance_costs_2": "",
         "bank_2": "",
-        "url": "https://www.chicago.gov/content/dam/city/depts/dcd/tif/18reports/{}.pdf".format(  # noqa
-            sys.argv[1]
+        "url": (
+            f"https://www.chicago.gov/content/dam/city/depts/dcd/tif/{sys.argv[1][-2:]}"
+            f"reports/{sys.argv[1].split('/')[-1]}.pdf"
         ),
     }
     dollar_cols = [
